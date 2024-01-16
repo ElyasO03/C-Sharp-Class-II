@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITP 236", "C Sharp Class II\ITP 236.csproj", "{0FBFD002-A680-450F-A503-F5FD8C7F9185}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITP_236", "C Sharp Class II\ITP_236.csproj", "{0FBFD002-A680-450F-A503-F5FD8C7F9185}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
